@@ -1,0 +1,24 @@
+{
+  "name": "vue-demo",
+  "version": "1.0.0",
+  "description": "vue demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Go7hic",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "vue": "^0.12.16",
+    "vue-resource": "^0.1.16"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dyy"
+  },
+  "keywords": [
+    "vue"
+  ]
+}
