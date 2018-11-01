@@ -9,7 +9,7 @@
   "author": "Go7hic",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.5",
+    "bootstrap": "^4.3.5",
     "vue": "^0.12.16",
     "vue-resource": "^0.1.16"
   },
